@@ -19,5 +19,5 @@ public class Session {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     private String username;
-    private Long userid;
+    private Long userId;
 }
