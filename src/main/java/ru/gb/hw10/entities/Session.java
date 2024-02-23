@@ -1,4 +1,4 @@
-package ru.gb.hw10.entity;
+package ru.gb.hw10.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
